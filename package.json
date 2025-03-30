@@ -11,5 +11,8 @@
   "devDependencies": {
     "vite": "^6.2.0",
     "vite-plugin-restart": "^0.4.2"
+  },
+  "dependencies": {
+    "babylonjs": "^8.0.1"
   }
 }
